@@ -57,8 +57,10 @@ python scripts/preprocess.py
 python scripts/visualize.py
 📊 Power BI Dashboard
 
+# 📊 Power BI Dashboard
+
 The cleaned dataset was imported into Power BI to create an interactive dashboard.
-Dashboard:
+
 ![Dashboard](images/dashboard.png)
 
 📈 Output
