@@ -1,0 +1,6 @@
+Gene,log2FoldChange,pvalue,condition,significant
+GeneD,3.2,0.0005,Up,True
+GeneA,2.5,0.001,Up,True
+GeneC,0.5,0.5,Neutral,False
+GeneB,-1.8,0.02,Down,True
+GeneE,-2.1,0.01,Down,True
