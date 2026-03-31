@@ -61,7 +61,7 @@ python scripts/visualize.py
 
 The cleaned dataset was imported into Power BI to create an interactive dashboard.
 
-![Dashboard](images/dashboard.png)
+<img src="images/dashboard.png" width="700">
 
 📈 Output
 Cleaned dataset for analysis
