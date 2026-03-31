@@ -57,11 +57,6 @@ python scripts/preprocess.py
 python scripts/visualize.py
 📊 Power BI Dashboard
 
-# 📊 Power BI Dashboard
-
-The cleaned dataset was imported into Power BI to create an interactive dashboard.
-
-<img src="images/dashboard.png" width="700">
 
 📈 Output
 Cleaned dataset for analysis
